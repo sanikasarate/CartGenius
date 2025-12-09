@@ -1,19 +1,59 @@
 # PulseMetrics – End-to-End Product MVP
 
-**PulseMetrics** is a web application that tracks product and user engagement in real-time. It includes interactive dashboards, analytics, and AI-powered insights for startups and businesses to make data-driven decisions.
+**PulseMetrics** is an interactive, end-to-end product MVP that allows you to track user engagement, feature usage, and customer segmentation in real-time. The project demonstrates **full-stack development, data visualization, predictive analytics, and AI insights**, making it a strong showcase for recruiters.
 
-## Features
-- User dashboard with DAU/MAU, retention, and session metrics
-- Feature usage analytics
-- Customer segmentation with ML clustering
-- Sentiment analysis of user feedback
-- Automated reports in PDF/CSV
-- Interactive frontend with animations
+---
 
-## Tech Stack
-- Frontend: HTML, CSS, JavaScript, Tailwind CSS, React.js
-- Backend: Python, Flask/Django/FastAPI
-- Database: PostgreSQL / MongoDB
-- Data & Analytics: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau/Power BI
-- ML/AI: Clustering, Churn prediction, NLP
-- Deployment: Docker, AWS/GCP, CI/CD pipelines
+## 🌟 Features
+
+- **User Analytics**: Track DAU, MAU, retention, and engagement metrics with interactive dashboards.
+- **Feature Insights**: Visualize feature usage trends to optimize product strategy.
+- **Customer Segmentation**: Segment users using ML clustering and target high-value customers.
+- **Predictive Analytics**: Predict future user engagement and product trends.
+- **Fully Interactive Web App**: Built with Flask, Tailwind CSS, and Plotly for a polished UI/UX.
+- **Live Data Integration**: Connects CSV/DB datasets for dynamic charts and dashboards.
+
+---
+
+## 🛠 Tech Stack
+
+- **Backend**: Python, Flask
+- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript
+- **Data Analytics & Visualization**: Pandas, Plotly, Seaborn
+- **Machine Learning**: scikit-learn
+- **Version Control & Deployment**: Git, GitHub, Render
+- **Other Tools**: Jupyter Notebook, VS Code
+
+---
+
+## 📈 Screenshots
+
+**Homepage & Dashboard:**  
+
+![Dashboard Screenshot](screenshots/dashboard.png)  
+
+**User Analytics Chart:**  
+
+![User Analytics Screenshot](screenshots/user_analytics.png)  
+
+**Customer Segmentation Pie Chart:**  
+
+![Segmentation Screenshot](screenshots/segmentation.png)  
+
+> *(Replace the images above with actual screenshots of your project in `screenshots/` folder.)*
+
+---
+
+## 🚀 Live Demo
+
+Access the live app here: [PulseMetrics Live](https://your-app.onrender.com)  
+
+---
+
+## 💡 How to Run Locally
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/sanikasarate/CartGenius.git
+
