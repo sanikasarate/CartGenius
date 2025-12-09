@@ -1,11 +1,10 @@
 # PulseMetrics – End-to-End Product MVP
 
-**PulseMetrics** is an interactive, end-to-end product MVP that allows you to track user engagement, feature usage, and customer segmentation in real-time. The project demonstrates **full-stack development, data visualization, predictive analytics, and AI insights**, making it a strong showcase for recruiters.
+PulseMetrics is an interactive, end-to-end product MVP that allows you to track user engagement, feature usage, and customer segmentation in real-time. The project demonstrates full-stack development, data visualization, predictive analytics, and AI insights, making it a strong showcase for recruiters.
 
 ---
 
-##  Features
-
+## 🌟 Features
 - **User Analytics**: Track DAU, MAU, retention, and engagement metrics with interactive dashboards.
 - **Feature Insights**: Visualize feature usage trends to optimize product strategy.
 - **Customer Segmentation**: Segment users using ML clustering and target high-value customers.
@@ -16,44 +15,36 @@
 ---
 
 ## 🛠 Tech Stack
-
-- **Backend**: Python, Flask
-- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript
-- **Data Analytics & Visualization**: Pandas, Plotly, Seaborn
-- **Machine Learning**: scikit-learn
-- **Version Control & Deployment**: Git, GitHub, Render
-- **Other Tools**: Jupyter Notebook, VS Code
+- **Backend**: Python, Flask  
+- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript  
+- **Data Analytics & Visualization**: Pandas, Plotly, Seaborn  
+- **Machine Learning**: scikit-learn  
+- **Version Control & Deployment**: Git, GitHub, Render  
+- **Other Tools**: Jupyter Notebook, VS Code  
 
 ---
 
-##  Screenshots
-
+## 📈 Screenshots
 **Homepage & Dashboard:**  
-
-![Dashboard Screenshot](screenshots/dashboard.png)  
+![Homepage Screenshot](screenshots/homepage.png)
 
 **User Analytics Chart:**  
-
-![User Analytics Screenshot](screenshots/user_analytics.png)  
+![User Analytics Screenshot](screenshots/user_analytics.png)
 
 **Customer Segmentation Pie Chart:**  
+![Segmentation Screenshot](screenshots/customer_segmentation.png)
 
-![Segmentation Screenshot](screenshots/segmentation.png)  
-
-> *(Replace the images above with actual screenshots of your project in `screenshots/` folder.)*
-
----
-
-##  Live Demo
-
-Access the live app here: [PulseMetrics Live](https://your-app.onrender.com)  
+> Make sure these image files exist in the `screenshots/` folder.
 
 ---
 
-##  How to Run Locally
+## 🚀 Live Demo
+Access the live app here: [PulseMetrics Live](https://your-live-app-link.com)
 
-1. Clone the repo:
+---
 
+## 💡 How to Run Locally
+1. Clone the repo:  
 ```bash
 git clone https://github.com/sanikasarate/CartGenius.git
 
